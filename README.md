@@ -56,48 +56,8 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
     </td>
   </tr>
 </table>
+![Moving Text](https://link-to-your-animated-gif.gif)
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Moving Text Example</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    .moving-text {
-      font-size: 2rem;
-      font-weight: bold;
-      color: #333;
-      white-space: nowrap;
-      animation: moveText 5s linear infinite;
-    }
-
-    @keyframes moveText {
-      0% {
-        transform: translateX(100%);
-      }
-      100% {
-        transform: translateX(-100%);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="moving-text">
-    This is moving text from right to left!
-  </div>
-</body>
-</html>
 
 
 ### Social Links
