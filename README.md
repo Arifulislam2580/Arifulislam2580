@@ -57,13 +57,6 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
   </tr>
 </table>
 
-
-
-
-### Moving Text Example
-This is the text that would move from right to left!
-
-
 ### Social Links
 - [My LinkedIn Profile](https://www.facebook.com/arifulislamjournalist/)
 - [My Twitter Profile](https://x.com/Ariful66944047)
