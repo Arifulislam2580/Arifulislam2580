@@ -44,6 +44,8 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
 - 🛠 **DevOps & Testing:** Docker, GitHub Actions, Chai, Mocha, Jest
 
 ---
+## 📊 My GitHub Stats
+![Ariful Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arifulislam2580&show_icons=true&theme=dark)
 
 ### Social Links
 - [My LinkedIn Profile](https://www.facebook.com/arifulislamjournalist/)
