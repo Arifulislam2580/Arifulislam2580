@@ -56,10 +56,12 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
     </td>
   </tr>
 </table>
-![Moving Text](https://path-to-your-gif.gif)
 
 
 
+
+### Moving Text Example
+This is the text that would move from right to left!
 
 
 ### Social Links
