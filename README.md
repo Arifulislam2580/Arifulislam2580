@@ -1,7 +1,7 @@
 # Hi there, it's Ariful 👋 (ARIFUL ISLAM)
 
 ### Blockchain Developer
-<p>![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<p>![Profile Views](https://github.com/Arifulislam2580/)
 </p>
 
 ---
