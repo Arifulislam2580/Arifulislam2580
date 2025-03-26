@@ -3,7 +3,7 @@
 
 <h3 About Me</h3>
 I’m passionate about blockchain, with a focus on transforming cutting-edge decentralized technology into user-centric solutions. My background in smart contracts, decentralized identity, and product development helps me bridge the gap between innovation and real-world applications.
-
+<p></p>
 🔹 Working On: Blockchain-Based Skill Verification System
 🔹 Interests: Blockchain, Smart Contracts, Decentralized Identity, & Product Development
 🔹 Looking For: Opportunities in blockchain startups & collaborations
