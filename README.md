@@ -56,7 +56,8 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
     </td>
   </tr>
 </table>
-You can see the moving text effect on my website here: [Moving Text Example](https://your-github-username.github.io/your-repository-name)
+![Moving Text](https://path-to-your-gif.gif)
+
 
 
 
