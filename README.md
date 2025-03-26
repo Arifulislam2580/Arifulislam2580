@@ -43,7 +43,6 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
 ---
 
 ### Social Links
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://twitter.com)
-- [GitHub](https://github.com)
-- [Medium](https://medium.com)
+- [LinkedIn](https://www.facebook.com/arifulislamjournalist/)
+- [Twitter](https://x.com/Ariful66944047)
+- [GitHub](https://github.com/Arifulislam2580)
