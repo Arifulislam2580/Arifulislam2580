@@ -45,7 +45,18 @@ I’m passionate about blockchain, with a focus on transforming cutting-edge dec
 
 ---
 ## 📊 My GitHub Stats & Most Used Languages
-![Ariful Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arifulislam2580&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifulislam2580&layout=compact&theme=dark)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Arifulislam2580&show_icons=true&theme=dark" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifulislam2580&layout=compact&theme=dark" height="180px"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ### Social Links
